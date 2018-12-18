@@ -1,0 +1,11 @@
+C:\Users\dmr\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\HelloWorlds.deps.json
+C:\Users\dmr\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\HelloWorlds.runtimeconfig.json
+C:\Users\dmr\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\HelloWorlds.runtimeconfig.dev.json
+C:\Users\dmr\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\HelloWorlds.dll
+C:\Users\dmr\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\HelloWorlds.pdb
+C:\Users\dmr\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\HelloWorlds.csprojAssemblyReference.cache
+C:\Users\dmr\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\HelloWorlds.csproj.CoreCompileInputs.cache
+C:\Users\dmr\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\HelloWorlds.AssemblyInfoInputs.cache
+C:\Users\dmr\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\HelloWorlds.AssemblyInfo.cs
+C:\Users\dmr\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\HelloWorlds.dll
+C:\Users\dmr\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\HelloWorlds.pdb
